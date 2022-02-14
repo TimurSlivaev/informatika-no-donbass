@@ -1,0 +1,3 @@
+https://docs.microsoft.com/ru-ru/learn/modules/python-install-vscode/6-exercise-first-application?pivots=windows
+
++ в посмотреть позже 
