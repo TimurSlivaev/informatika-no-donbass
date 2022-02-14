@@ -1,0 +1,2 @@
+# informatika
+ no donbass
