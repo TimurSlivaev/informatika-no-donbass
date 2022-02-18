@@ -1,5 +1,5 @@
 # цикла for напоминате range()
-# str-слова int-числа!
+# str-слова int-числа
 
 #languages = ["C", "C++", "Perl", "Python"]
 # for x in languages:
