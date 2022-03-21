@@ -2,10 +2,16 @@
 def print_yes(a):
         b=a+10
         print(b) #15
+        return b
 
 
 print_yes(5)
 '''
+"""
+def get_message():
+    return "Hello METANIT.COM"
+print(get_message()) #Hello METANIT.COM
+"""
 
 """
 Алгоритм вычисления значения функции F(n), где n – натуральное число, задан следующими соотношениями:
